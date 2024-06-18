@@ -1,0 +1,45 @@
+[2000/10000] Train loss: 1.50251, Valid loss: 125.51949, Elapsed_time: 386.25966
+Current_accuracy : 0.000, Current_norm_ED  : 0.1127
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1127
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+hardware                  | Hweateetretetet 36        | 0.0000	False
+80134 794+4071            | Iost per2s0n6             | 0.0002	False
+--------------------------------------------------------------------------------
+[4000/10000] Train loss: 0.00031, Valid loss: 105.72579, Elapsed_time: 780.92931
+Current_accuracy : 0.000, Current_norm_ED  : 0.1003
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1127
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+DRG Nepal 02718           | Aalell: 036               | 0.0019	False
+1645 )                    | Iostl erwin               | 0.0045	False
+--------------------------------------------------------------------------------
+[6000/10000] Train loss: 0.00009, Valid loss: 163.38599, Elapsed_time: 1190.83106
+Current_accuracy : 0.000, Current_norm_ED  : 0.1008
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1127
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Orytha Dad /              | Sorate persons            | 0.0027	False
+hardware                  | H3efattt t 36             | 0.0000	False
+--------------------------------------------------------------------------------
+[8000/10000] Train loss: 0.00005, Valid loss: 93.18663, Elapsed_time: 1620.09736
+Current_accuracy : 0.000, Current_norm_ED  : 0.1024
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1127
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+7902+07 Nurra Communist   | San nm0 n : :nsn          | 0.0000	False
+7 PICKPOCKET Rithwik      | Hadin n ne                | 0.0010	False
+--------------------------------------------------------------------------------
+[10000/10000] Train loss: 0.00004, Valid loss: 184.06241, Elapsed_time: 2067.19585
+Current_accuracy : 0.000, Current_norm_ED  : 0.1019
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1127
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Geographer 93 ? Metz      | Soaemomn                  | 0.0023	False
+Dikarya                   | Sen utlity                | 0.0001	False
+--------------------------------------------------------------------------------
