@@ -3,10 +3,29 @@ import streamlit as st  # Web App
 from PIL import Image  # Image Processing
 import numpy as np  # Image Processing
 
-# Header
-st.subheader("`Massive Project`")
+import streamlit as st
 
-st.divider()
+st.markdown(
+    """
+    <style>
+        div[data-testid="column"]:nth-of-type(3)
+        {
+            text-align: end;
+        } 
+    </style>
+    """, unsafe_allow_html=True
+)
+
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    # Header
+    st.subheader("`Massive Project`")
+
+with col3:
+    # Header
+    st.subheader(":red[IMGS]:grey[can]")
+
 
 # Title
 st.title("Image to Text")
