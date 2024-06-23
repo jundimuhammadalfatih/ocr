@@ -1,11 +1,18 @@
-
 <h1 align="center"> OCR MASSIVE PROJECT </h1>
 
-![screencapture-ocr-massive-project-streamlit-app-2024-06-19-03_19_19](https://github.com/jundimuhammadalfatih/ocr/assets/91357888/88fac984-f562-4f97-845c-2a790c126c28)
+<p align="center">
+<img src="https://github.com/jundimuhammadalfatih/ocr/assets/91357888/25e8bfb9-65c5-481e-a67a-4b6f02327495" width="25%" height="25%" class="center">
+</p>
 
----
+<table align="center">
+<tr>
+<td>
+<p> 🌐 https://ocr-massive-project.streamlit.app 🌐 </p>
+</td>
+</tr>
+</table>
 
-<p align="center"> 🌐 https://ocr-massive-project.streamlit.app/ 🌐 </p>
+![screencapture-ocr-massive-project-streamlit-app-2024-06-21-14_40_19](https://github.com/jundimuhammadalfatih/ocr/assets/91357888/73c1f7bb-430f-4e5a-b4cd-c0bd59f61b53)
 
 ---
 
@@ -23,6 +30,7 @@ OCR (Optical Character Recognition) is a technology used to convert text from im
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
+> IMGScan - Digitalisasi Tanpa Batas
 > - Library: easyOCR
 > - Framework: Built using the PyTorch framework
 > - Algorithm & Model: Utilizes a combination of deep learning models
