@@ -5,9 +5,9 @@
 </p>
 
 <table align="center">
-<tr>
-<td>
-<p> 🌐 https://ocr-massive-project.streamlit.app 🌐 </p>
+<tr align="center">
+<td align="center">
+<p align="center"> 🌐 https://ocr-massive-project.streamlit.app 🌐 </p>
 </td>
 </tr>
 </table>
